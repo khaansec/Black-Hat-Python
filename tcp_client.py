@@ -1,8 +1,8 @@
 import socket
 
 # init variables
-target_port = 80
-target_host = "www.ensign.edu"
+target_port = 9998
+target_host = "127.0.0.1"
 #print("Enter the target host: ")
 #target_host = input()
 #print("Enter the target port: ")
